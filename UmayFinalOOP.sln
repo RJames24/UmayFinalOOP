@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UmayFinalOOP", "UmayFinalOOP\UmayFinalOOP.vbproj", "{54AF9577-25DC-415C-8535-95510B8DCB7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54AF9577-25DC-415C-8535-95510B8DCB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54AF9577-25DC-415C-8535-95510B8DCB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54AF9577-25DC-415C-8535-95510B8DCB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54AF9577-25DC-415C-8535-95510B8DCB7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72EDC9C8-6491-47DD-8105-9AE46B07A2C4}
+	EndGlobalSection
+EndGlobal
